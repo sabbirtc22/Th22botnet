@@ -52,9 +52,9 @@ def help():
                          ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
                          ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 
-                              WELCOME TO YOLO-PANEL
+                              WELCOME TO TC22-Panel
                 TYPE THE \033[36m[\033[32mMETHODS\033[36m] \033[36m[\033[32mURL\033[36m] \033[36m[\033[32mTIME\033[36m] TO START ATTACK
-                         AUTHOR IN TELEGRAM : @XEQUILLE
+                         AUTHOR IN TELEGRAM : @abcdabcd0
                          •   BOLT \033[36m[\033[32mL7\033[36m]    •   YOLO \033[36m[\033[32mL7\033[36m] 
                          •   OMG  \033[36m[\033[32mL7\033[36m]    •   TLS  \033[36m[\033[32mL7\033[36m]
                          •   NOX  \033[36m[\033[32mL7\033[36m]    •   BOT  \033[36m[\033[32mL7\033[36m]
@@ -79,9 +79,9 @@ def main():
                          ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
                          ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 
-                              WELCOME TO YOLO-PANEL
+                              WELCOME TO TC22-Panel
 		   	 TYPE \033[36m[\033[32mHELP\033[36m] TO SEE OUR METHODS
-                         AUTHOR IN TELEGRAM : @XEQUILLE⠀⠀
+                         AUTHOR IN TELEGRAM : @abcdabcd0⠀⠀
 \033[0m""")
 
 	while True:
@@ -181,7 +181,7 @@ def login():
 	sys.stdout.write(f"\x1b]2;[\] Yolo-Panel :: Online Users: [1] :: Attack Sended: [1/10]\x07")
 	os.system('cls' if os.name == 'nt' else 'clear')
 	user = "root"
-	passwd = "1907"
+	passwd = "00769"
 	username = input("""\033[36m
                          ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
                          ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇
@@ -198,9 +198,9 @@ def login():
                          ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
                          ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 
-                              WELCOME TO YOLO-PANEL
+                              WELCOME TO TC22-Panel
 		BEFORE USE OUR PANEL YOU MUST LOGIN TO UR ACCOUNT
-                          AUTHOR IN TELEGRAM : @XEQUILLE⠀⠀
+                          AUTHOR IN TELEGRAM : @abcdabcd0⠀⠀
 						   
 \033[36m[\033[32mUSERNAME\033[36m]:\033[0m """)
 	password = getpass.getpass(prompt='\033[36m[\033[32mPASSWORD\033[36m]:\033[0m ')
